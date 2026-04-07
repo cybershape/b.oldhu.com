@@ -1,6 +1,6 @@
 ---
 date: 2013-10-28T00:00:00Z
-published: true
+draft: false
 status: publish
 tags: []
 title: Suunto to Nike Plus Uploader

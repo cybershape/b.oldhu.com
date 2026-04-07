@@ -1,6 +1,6 @@
 ---
 date: 2012-07-19T00:00:00Z
-published: true
+draft: false
 status: publish
 tags:
 - node

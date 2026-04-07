@@ -1,6 +1,6 @@
 ---
 date: 2012-02-16T00:00:00Z
-published: true
+draft: false
 status: publish
 tags: ["android"]
 title: How to unpack and repack Android's boot.img correctly

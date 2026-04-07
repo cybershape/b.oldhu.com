@@ -1,6 +1,6 @@
 ---
 date: 2014-05-29T00:00:00Z
-published: true
+draft: false
 status: publish
 tags: []
 title: Select Google Calendars to Sync with iPhone

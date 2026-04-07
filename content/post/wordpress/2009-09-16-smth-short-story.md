@@ -1,7 +1,7 @@
 ---
 date: 2009-09-16T00:00:00Z
 meta: {}
-published: true
+draft: false
 status: publish
 tags:
 - smth

@@ -20,14 +20,14 @@ params:
     -
       name: "Github"
       icon: "github"
-      url: "https://github.com/tiejunhu"
+      url: "https://github.com/cybershape"
     -
       name: "RSS"
       icon: "rss"
       url: /index.xml
   contentTypeName: "content/post"
   description: "Post.order(\"created_at DESC\")"
-  GithubID: "tiejunhu"
+  GithubID: "cybershape"
   TwitterID: "oldhuhu"
   LinkedInID: "oldhu"
   AnalyticsID: "UA-9830681-1"

@@ -1,6 +1,6 @@
 ---
 date: 2012-08-06T00:00:00Z
-published: true
+draft: false
 status: publish
 tags: []
 title: Types of Pen

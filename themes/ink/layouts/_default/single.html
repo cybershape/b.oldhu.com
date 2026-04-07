@@ -13,7 +13,7 @@
           <div class="meta" itemprop="datePublished" content="{{ dateFormat " 2006-01-02T15:04:05-07:00" .Date }}">
             <div class="date">
               <div class="day">{{ dateFormat "02" .Date }}</div>
-              <div class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else
+              <div class="rest">{{ if hugo.Data.month }}{{ index hugo.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else
                 }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</div>
             </div>
           </div>

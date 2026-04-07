@@ -1,6 +1,6 @@
 ---
 date: 2012-08-07T00:00:00Z
-published: true
+draft: false
 status: publish
 tags: []
 title: Sublime Text 2 Build System Encoding Issue

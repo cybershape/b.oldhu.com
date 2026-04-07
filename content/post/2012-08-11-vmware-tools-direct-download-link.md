@@ -1,6 +1,6 @@
 ---
 date: 2012-08-11T00:00:00Z
-published: true
+draft: false
 status: publish
 tags: ["vmware"]
 title: VMware Tools Direct Download Link
