@@ -1,9 +1,5 @@
 <div class="footer wrapper">
   <nav class="nav">
-    <div style="display: flex; flex-direction: row; justify-content: center; padding-left: 200px; padding-right: 200px;">
-      <img src="/images/written-by-human-not-by-ai-white.svg" width="131px" height="42px">
-      <img src="/images/made-with-emacs.svg" height="42px">
-    </div>
     <div>&#169; {{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . | safeHTML }} | {{ end }} by
       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
         <a itemprop="url" href="https://github.com/tiejunhu">
