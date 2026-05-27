@@ -1,0 +1,21 @@
+www.tabletennisdaily.com##div.u-alignCenter.structItem--thread.structItem
+www.tabletennisdaily.com##.wide-screen-sidebar--right.wide-screen-sidebar
+www.tabletennisdaily.com##.wide-screen-sidebar--left.wide-screen-sidebar
+www.tabletennisdaily.com##.block--videoSlider
+www.tabletennisdaily.com##.ttd_video
+www.tabletennisdaily.com##html:style(font-family: monospace !important; font-weight: normal !important;)
+www.tabletennisdaily.com##body .structItem.structItem--thread .structItem-cell.structItem-cell--main .structItem-title a:style(font-weight: normal !important; font-size: 16px !important;)
+www.tabletennisdaily.com##.message-body:style(font-family: monospace !important; font-weight: 300 !important; font-size: 14px;)
+www.tabletennisdaily.com##.p-title-value:style(font-family: monospace !important; font-weight: normal;)
+www.tabletennisdaily.com##.uix_sidebarInner
+www.tabletennisdaily.com##.p-body-content:style(width: 100% !important;max-width: 100% !important;)
+hn.premii.com##.layout-fixed .layout:style(width:1400px !important;)
+hn.premii.com##html:style(font-family: monospace !important; font-weight: normal !important;)
+serializer.io##body:style(font-family: monospace !important; font-weight: normal !important;)
+serializer.io##table:style(max-width: 1024px !important;)
+serializer.io###log-button:style(max-width: 1024px !important;)
+serializer.io###menu-container:style(max-width: 1024px !important;)
+daringfireball.net##body:style(font-family: monospace !important; font-weight: normal !important; font-size: 14px !important)
+daringfireball.net###Main:style(width: 1024px !important;)
+daringfireball.net##hr.ookiaks:style(margin-bottom: 0 !important;)
+daringfireball.net##.linkedlist dt:style(font-family: monospace !important; font-weight: normal !important; font-size: 16px !important; text-transform: none !important)
